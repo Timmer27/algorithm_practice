@@ -1,5 +1,10 @@
 # algorithm_practice
 
+#### Algorithm Websites
+
+- 프로그래머스
+- 코딩도장 
+
 #### Algorithm Types
 
 - greedy
@@ -11,7 +16,3 @@
 - shortest path
 - graph algorithm
 
-
-<hr>
-
-credited by 파이썬 코딩테스트, 프로그래머스, 코딩도장
